@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /editor/
+Disallow: /help/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /language/
+Disallow: /mambots/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /templates/
+Disallow: /installation/
+Host: babymarket.in.ua
+Sitemap: http://babymarket.in.ua/sitemap.xml
+Crawl-delay: 20
+
+

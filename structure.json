@@ -1,0 +1,28 @@
+{
+  "urls": {
+    "2": {
+      "url": "http://babymarket.in.ua/robots.txt",
+      "folder": "html",
+      "filename": "963181da0b2b3e6d0e921e2cb0ad1bcff56e201a.00000002.txt",
+      "filetime": "20140516204058",
+      "filesize": "364",
+      "mimetype": "text/plain",
+      "charset": "",
+      "url_original": "http://babymarket.in.ua/robots.txt"
+    }
+  }
+}
+{
+  "urls": {
+    "1": {
+      "url": "http://babymarket.in.ua/",
+      "folder": "html",
+      "filename": "5d20c9bcb5ae8599f9d01a7bb438c38d7ad80cb8.00000001.html",
+      "filetime": "20140516204118",
+      "filesize": "121036",
+      "mimetype": "text/html",
+      "charset": "windows-1251",
+      "url_original": "http://babymarket.in.ua/"
+    }
+  }
+}
